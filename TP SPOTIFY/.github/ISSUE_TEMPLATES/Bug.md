@@ -62,13 +62,3 @@ Les développeurs de Rclone
 
 
 #### Un journal de la commande avec le drapeau `-vv` (par exemple, la sortie de `rclone -vv copy /tmp remote:tmp`)
-
-
-
-<!--- Veuillez conserver la note ci-dessous pour les autres qui lisent votre rapport de bogue. -->
-
-#### Comment utiliser GitHub
-
-* Veuillez utiliser la 👍 [réaction](https://github.com/Simonbelhassen/projet_git_5_3iw2_esgi/blob/main/CONTRIBUTING.md) pour montrer que vous êtes affecté par la même problème.
-* Veuillez ne pas commenter si vous n'avez aucune information pertinente à ajouter. C'est juste du bruit supplémentaire pour tous ceux qui sont abonnés à ce numéro.
-* Abonnez-vous pour recevoir des notifications sur le changement de statut et les nouveaux commentaires.
